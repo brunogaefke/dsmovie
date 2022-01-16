@@ -5,7 +5,7 @@
 
 https://gaefke-dsmovie.netlify.app/
 
-Ds Movie é uma aplicação full stack web construída durante a Semana Full Stack Spring-React ministrado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Ds Movie é uma aplicação full stack web construída durante a Semana Spring-React ministrado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um catálogo online de avaliação de filmes.
 
